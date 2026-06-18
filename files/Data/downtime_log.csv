@@ -1,0 +1,31 @@
+date,shift,line,planned_production_time_min,downtime_min,ideal_cycle_time_sec,total_units_produced,good_units,downtime_reason
+2024-01-08,Day,Conveyor_A,480,35,3.0,8400,8100,Mechanical failure
+2024-01-08,Night,Conveyor_A,480,20,3.0,8600,8450,Changeover
+2024-01-09,Day,Conveyor_A,480,60,3.0,7800,7500,Mechanical failure
+2024-01-09,Night,Conveyor_A,480,15,3.0,8700,8600,Planned maintenance
+2024-01-10,Day,Conveyor_A,480,45,3.0,8100,7900,Unplanned breakdown
+2024-01-10,Night,Conveyor_A,480,10,3.0,8800,8750,Changeover
+2024-01-11,Day,Conveyor_A,480,80,3.0,7200,6900,Unplanned breakdown
+2024-01-11,Night,Conveyor_A,480,25,3.0,8400,8300,Mechanical failure
+2024-01-12,Day,Conveyor_A,480,30,3.0,8500,8350,Changeover
+2024-01-12,Night,Conveyor_A,480,5,3.0,8900,8870,Planned maintenance
+2024-01-08,Day,Rounder_B,480,50,4.0,6300,6100,Mechanical failure
+2024-01-08,Night,Rounder_B,480,30,4.0,6500,6400,Unplanned breakdown
+2024-01-09,Day,Rounder_B,480,70,4.0,6000,5700,Mechanical failure
+2024-01-09,Night,Rounder_B,480,20,4.0,6600,6500,Changeover
+2024-01-10,Day,Rounder_B,480,90,4.0,5800,5500,Unplanned breakdown
+2024-01-10,Night,Rounder_B,480,15,4.0,6700,6600,Planned maintenance
+2024-01-11,Day,Rounder_B,480,55,4.0,6200,6000,Mechanical failure
+2024-01-11,Night,Rounder_B,480,40,4.0,6300,6150,Unplanned breakdown
+2024-01-12,Day,Rounder_B,480,25,4.0,6550,6450,Changeover
+2024-01-12,Night,Rounder_B,480,10,4.0,6800,6750,Planned maintenance
+2024-01-08,Day,Packaging_C,480,20,2.5,10800,10600,Changeover
+2024-01-08,Night,Packaging_C,480,15,2.5,11000,10900,Planned maintenance
+2024-01-09,Day,Packaging_C,480,40,2.5,10400,10100,Mechanical failure
+2024-01-09,Night,Packaging_C,480,10,2.5,11100,11000,Changeover
+2024-01-10,Day,Packaging_C,480,55,2.5,10200,9900,Unplanned breakdown
+2024-01-10,Night,Packaging_C,480,8,2.5,11200,11100,Planned maintenance
+2024-01-11,Day,Packaging_C,480,35,2.5,10600,10400,Mechanical failure
+2024-01-11,Night,Packaging_C,480,12,2.5,11000,10900,Changeover
+2024-01-12,Day,Packaging_C,480,22,2.5,10800,10700,Mechanical failure
+2024-01-12,Night,Packaging_C,480,6,2.5,11300,11250,Planned maintenance
